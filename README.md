@@ -9,9 +9,15 @@ Annoyed by how many colorless letters greeted me at the start of Wordle every da
 4. Find the nearest possible word to the top most used letters for each position (without double letters).
 
 ## Conclusion
-The best word to start with is 🥁 **saute**.
+The best word to start with is...  
+🥁🥁🥁🥁🥁🥁🥁🥁
 
-Admittedly, it's not the most advanced statistical analysis - but for a 5-letter word game that I do while brushing my teeth, I am satisfied with the results.
+<button style='background-color:#42ed70;color:white'>S</button><button style='background-color:#42ed70;color:white'>A</button><button style='background-color:#42ed70;color:white'>U</button><button style='background-color:#42ed70;color:white'>T</button><button style='background-color:#42ed70;color:white'>E</button>
+
+<!-- ![Best word](word.png) -->
+
+
+The complete code is given below - admittedly, it's not the most advanced statistical analysis but for a 5-letter word game that I do while brushing my teeth, I am satisfied with the results.
 
 <!-- ![Chart](Wordle.png) -->
 
