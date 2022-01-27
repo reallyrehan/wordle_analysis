@@ -6,7 +6,7 @@ Annoyed by how many colorless letters greeted me at the start of Wordle every da
 1. Get all the words. 
 2. Filter to only 5-letter words.
 3. Find the most used letters for each position.
-4. Find the nearest possible word to the top most used letters for each position (without double letters).
+4. If the word with the top-used letters is not a valid word, use Levenshtein Distance to find the nearest possible word (without double letter use).
 
 ## Conclusion
 The best word to start with is...  
