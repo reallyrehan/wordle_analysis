@@ -11,8 +11,9 @@ Annoyed by how many colorless letters greeted me at the start of Wordle every da
 ## Conclusion
 The best word to start with is 🥁 **saute**.
 
-![Chart](Wordle.png)
-<a href = "https://public.flourish.studio/visualisation/8535113/"><img src="Wordle.png"></a>
+Admittedly, it's not the most advanced statistical analysis - but for a 5-letter word game that I do while brushing my teeth, I am satisfied with the results.
+
+<!-- ![Chart](Wordle.png) -->
 
 ---
 
@@ -222,3 +223,7 @@ sorted(tot_scores,key=lambda a:a[1])[::-1][4]
     ('saute', 4886)
 
 
+
+Also, here is a chart with the highest letter counts for each position.
+
+<a href = "https://public.flourish.studio/visualisation/8535113/"><img src="Wordle.png"></a>
