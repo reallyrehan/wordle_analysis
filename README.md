@@ -12,8 +12,8 @@ Annoyed by how many colorless letters greeted me at the start of Wordle every da
 The best word to start with is...  
 🥁🥁🥁🥁🥁🥁🥁🥁
 
-<button style='background-color:#42ed70;color:white'>S</button><button style='background-color:#42ed70;color:white'>A</button><button style='background-color:#42ed70;color:white'>U</button><button style='background-color:#42ed70;color:white'>T</button><button style='background-color:#42ed70;color:white'>E</button>
-
+<!-- <button style='background-color:#42ed70;color:white'>S</button><button style='background-color:#42ed70;color:white'>A</button><button style='background-color:#42ed70;color:white'>U</button><button style='background-color:#42ed70;color:white'>T</button><button style='background-color:#42ed70;color:white'>E</button> -->
+<img src = "word_green.png" style="width:120px;">
 <!-- ![Best word](word.png) -->
 
 
